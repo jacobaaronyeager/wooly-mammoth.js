@@ -1,6 +1,6 @@
 
 
-# Mammoth (with style preservation) .docx to HTML converter
+# Wooly Mammoth (Mammoth.js with style preservation) .docx to HTML converter
 
 **ABOUT THIS FORK**
 
